@@ -1,5 +1,5 @@
-# Mantra5 dataset
-Mantra5 dataset is a evaluation dataset for machine translation of manga.
+# OpenMantra dataset
+OpenMantra dataset is a evaluation dataset for machine translation of manga.
 The dataset comprised of five Japanese manga series across different genres, including fantasy, romance, battle, mystery, and slice of life.
 Original Japanese texts are translated into English and Chinese by professional translator.
 
@@ -32,7 +32,7 @@ This repository includes annotation json files and original images.
 
 
 ## Citation
-When you use Mantra5 dataset, please cite the following paper:
+When you use OpenMantra dataset, please cite the following paper:
 
 @article{hinami_aaai_2021,
     author={Ryota Hinami and Shonosuke Ishiwatari and Kazuhiko Yasuda and Yusuke Matsui},
