@@ -5,8 +5,8 @@ Original Japanese texts are translated into English and Chinese by professional 
 
 This repository includes annotation json files and original images.
 
-- images/ : Directory that includes the images of Mantra5 dataset
-- annotations.json: Annotation of Mantra5 dataset
+- images/ : Directory that includes the images of OpenMantra dataset
+- annotations.json: Annotation of OpenMantra dataset
 ```
 [
   {
