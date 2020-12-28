@@ -1,9 +1,9 @@
 # OpenMantra dataset
-OpenMantra dataset is a evaluation dataset for machine translation of manga.
+OpenMantra dataset is an evaluation dataset for machine translation of manga.
 The dataset comprised of five Japanese manga series across different genres, including fantasy, romance, battle, mystery, and slice of life.
-Original Japanese texts are translated into English and Chinese by professional translator.
+Original Japanese texts are translated into English and Chinese by professional translators.
 
-This repository includes annotation json files and original images.
+This repository includes annotated JSON files and the original images.
 
 - images/ : Directory that includes the images of OpenMantra dataset
 - annotations.json: Annotation of OpenMantra dataset
