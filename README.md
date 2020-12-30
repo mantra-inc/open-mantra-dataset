@@ -1,8 +1,16 @@
 # OpenMantra dataset
+Dataset introduced in the paper "Towards Fully Automated Manga Translation" presented in AAAI21 ([arXiv link](https://arxiv.org/abs/2012.14271))
+
+by Ryota Hinami, Shonosuke Ishiwatari, Kazuhiko Yasuda, Yusuke Matsui
+
+
+## Introduction
 OpenMantra dataset is an evaluation dataset for machine translation of manga.
 The dataset comprised of five Japanese manga series across different genres, including fantasy, romance, battle, mystery, and slice of life.
 Original Japanese texts are translated into English and Chinese by professional translators.
 
+
+## Data
 This repository includes annotated JSON files and the original images.
 
 - images/ : Directory that includes the images of OpenMantra dataset
@@ -42,5 +50,9 @@ When you use OpenMantra dataset, please cite the following paper:
     year={2021}
 }
 ```
+
+## Contact
+For any question, please fill an issue or use the contact form of our company. 
+[Contact](https://docs.google.com/forms/d/e/1FAIpQLScn2JHjJOgBrpiT3Lo0mOZO9-kHxwJmCRRnf8eW7K0HjDhrgg/viewform)
 
 
